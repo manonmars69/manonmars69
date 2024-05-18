@@ -1,6 +1,10 @@
 
 # 💫 About Me:
-### I am currently working on the boot.dev curriculum to deepen my understanding of backend development.
+### I'm ... from ....
+
+### 🔭 I work as a project consultant
+### 📚 I'm currently learning the boot.dev backend curriculum.
+### ⚡ In my free time I ...
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/jun-yao-880609134" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" /> </a>
