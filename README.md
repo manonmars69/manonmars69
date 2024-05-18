@@ -1,7 +1,7 @@
 # 💫 About Me:
-### 🔭 In my day job, I work as project consultant.
-### 📚 I'm currently going through the boot.dev curriculum to learn more about backend development.
-### ⚡ In my spare time I like to learn new things and visit new places.
+### 👔 In my day job, I work as project consultant.
+### 📖 I'm currently going through the boot.dev curriculum to learn more about backend development.
+### ✈️ In my spare time I like to learn new things and visit new places.
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/jun-yao-880609134" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" /> </a>
@@ -22,8 +22,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manonmars69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=manonmars69&theme=dark&hide_border=false)<br/> 
 
 
 
