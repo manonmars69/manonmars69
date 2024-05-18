@@ -5,7 +5,7 @@ I am currently working on the boot.dev curriculum to deepen my understanding of 
 #
 
 ### 🌐 Socials:
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://tinyurl.com/2pnb879m) 
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/jun-yao-880609134) 
 
 #
 
