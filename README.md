@@ -17,8 +17,10 @@ I am currently working on the boot.dev curriculum to deepen my understanding of 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Arch" widht="15px" style="padding-right:10px:" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
-<br>
+#
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manonmars69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
