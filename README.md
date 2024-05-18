@@ -1,12 +1,12 @@
-# 💫 About Me:
-### 👔 In my day job, I work as project consultant.
+# 🤔 About Me:
+### 💻 In my day job, I work as project consultant.
 ### 📖 I'm currently going through the boot.dev curriculum to learn more about backend development.
 ### ✈️ In my spare time I like to learn new things and visit new places.
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/jun-yao-880609134" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" /> </a>
 
-## 💻 Languages & Tools:
+## 🛠️ Languages & Tools:
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="GO" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
