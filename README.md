@@ -1,13 +1,9 @@
-<!-- Created with GPRM ( https://gprm.itsvg.in ) - customized by myself -->
+
 # 💫 About Me:
-I am currently working on the boot.dev curriculum to deepen my understanding of backend development.
-
-
+### I am currently working on the boot.dev curriculum to deepen my understanding of backend development.
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/jun-yao-880609134" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50px" /> </a>
-
-
 
 ## 💻 Languages & Tools:
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -22,7 +18,6 @@ I am currently working on the boot.dev curriculum to deepen my understanding of 
 <img align="left" alt="Arch" width="50px" style="padding-right:10px:" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/archlinux/archlinux-original.svg" />
 <img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" />
 <br />
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manonmars69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
