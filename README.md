@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### 🔭 In my day job, I work as project consultant.
-### 📚 I'm currently working my way through the boot.dev curriculum to help me understand back-end development.
+### 📚 I'm currently going through the boot.dev curriculum to learn more about backend development.
 ### ⚡ In my spare time I like to learn new things and visit new places.
 
 ## 🌐 Socials:
