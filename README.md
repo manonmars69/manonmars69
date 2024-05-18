@@ -22,7 +22,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=manonmars69&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=manonmars69&theme=tokyonight&hide_border=true)<br/> 
 
 
 
