@@ -1,5 +1,5 @@
 # 🤔 About Me:
-💻 In my day job, I work as project consultant. <br/> 
+💻 In my day job, I work as a project consultant. <br/> 
 📘 I'm currently going through the boot.dev curriculum to learn more about backend development. <br/> 
 ✈️ In my spare time I like to learn new things and visit new places.
 
